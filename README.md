@@ -1,4 +1,4 @@
-# Review Summarisation of Hotel Reviews
+# Review Summarization of Hotel Reviews
 
 Price comparison websites such as [trivago](http://company.trivago.com) depend on reviews to enable users to make an informed choices when 
 selecting the right accommodation. However, with a large number of reviews it is necessary to summarise the most salient 
