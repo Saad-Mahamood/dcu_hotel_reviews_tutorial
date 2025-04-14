@@ -20,8 +20,7 @@ the downloaded zip files should be placed in the `resources/data` directory.
 3. Change directory: `cd dcu_hotel_reviews_tutorial/`
 4. Create a virtualenv using Python 3.13.x or higher: `python3 -m venv ./venv`
 5. Activate the virtual environment:
-   * `cd ./venv/`
-   * `source bin/activate`
+   * `source ./venv/bin/activate`
 6. Go back to the project directory: `cd ..`
 7. Now install the `pip` dependencies: `pip install -r requirements.txt`
    * Alternatively, if you are using `poetry`: `poetry sync` 
