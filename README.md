@@ -25,3 +25,4 @@ the downloaded zip files should be placed in the `resources/data` directory.
 7. Now install the `pip` dependencies: `pip install -r requirements.txt`
    * Alternatively, if you are using `poetry`: `poetry sync` 
 8. Start jupyter lab and browse the notebooks in this directory: `jupyter lab`
+   * Alternatively, you can use your own IDE editor instead.  
