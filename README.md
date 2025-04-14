@@ -7,7 +7,7 @@ there is still a need to understand and perform content selection prior to revie
 a bilingual open dataset of hotel reviews and perform the following steps:
 
 * Data preparation and high-level analysis.
-* Langauge classification 
+* Language classification 
 * Sentiment analysis 
 * Content selection
 * Review summarization using an open source language model
@@ -19,7 +19,7 @@ List of resources:
 ## Installation Instructions
 
 1. Clone this GitHub repository: `git clone git@github.com:Saad-Mahamood/dcu_hotel_reviews_tutorial.git`
-2. Ensure that you have Python 3.13.x or higher installed. Use `pyhton3 --version` to check.
+2. Ensure that you have Python 3.13.x or higher installed. Use `python3 --version` to check.
 3. Change directory: `cd dcu_hotel_reviews_tutorial/`
 4. Create a virtualenv using Python 3.13.x or higher: `python3 -m venv ./venv`
 5. Activate the virtual environment:
