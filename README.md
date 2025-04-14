@@ -6,8 +6,9 @@ Price comparison websites such as [trivago](http://company.trivago.com) depend o
 * Langauge classification 
 * Sentiment analysis 
 * Content selection
-* Review summarisation using an open source language model
+* Review summarization using an open source language model
 
 List of resources:
 
-* Hotel review dataset: [https://www.cs.cmu.edu/~jiweil/html/hotel-review.html](https://www.cs.cmu.edu/~jiweil/html/hotel-review.html)
+* Hotel review dataset: [https://www.cs.cmu.edu/~jiweil/html/hotel-review.html](https://www.cs.cmu.edu/~jiweil/html/hotel-review.html). T
+the downloaded zip files should be placed in the `resources/data` directory.

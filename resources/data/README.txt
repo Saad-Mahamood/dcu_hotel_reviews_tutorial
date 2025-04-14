@@ -1,0 +1,1 @@
+Place into this directory the `offering.txt.zip` and `review.txt.zip` files downloaded from here: https://www.cs.cmu.edu/~jiweil/html/hotel-review.html
