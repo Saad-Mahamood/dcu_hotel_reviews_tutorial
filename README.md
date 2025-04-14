@@ -14,8 +14,7 @@ a bilingual open dataset of hotel reviews and perform the following steps:
 
 List of resources:
 
-* Hotel review dataset: [https://www.cs.cmu.edu/~jiweil/html/hotel-review.html](https://www.cs.cmu.edu/~jiweil/html/hotel-review.html). T
-the downloaded zip files should be placed in the `resources/data` directory.
+* Hotel review dataset: [https://www.cs.cmu.edu/~jiweil/html/hotel-review.html](https://www.cs.cmu.edu/~jiweil/html/hotel-review.html). The downloaded zip files should be placed in the `resources/data` directory.
 
 ## Installation Instructions
 
