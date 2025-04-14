@@ -1,0 +1,1 @@
+This directory is for storing intermediate CSV files as required by the given notebook.
