@@ -1,0 +1,39 @@
+Summarize the top 3 strengths of this hotel based on guest reviews, highlighting its unique features, amenities,
+and services that make it stand out from others in its class. Be sure to include specific examples or quotes from
+reviewers that illustrate these strengths.
+
+Focus on a concise summary of the hotel's positives, including:
+
+* Unique selling points (e.g., a rooftop pool with stunning views)
+* Amenities that exceed guest expectations (e.g., a free breakfast buffet or in-room spa treatments)
+* Services that demonstrate exceptional customer care (e.g., personalized concierge assistance or prompt room service)
+* Quirks or features that have garnered praise from reviewers, such as a funky decor or a convenient location.
+
+Return the response as JSON structure with a title and summary:
+
+[
+    {
+        "title": "",
+        "summary": ""
+    },
+    {
+        "title": "",
+        "summary": ""
+    },
+    {
+        "title": "",
+        "summary": ""
+    }
+]
+
+*** REVIEWS ****
+
+{{ review_0 }}
+
+{{ review_1 }}
+
+{{ review_2 }}
+
+{{ review_3 }}
+
+{{ review_4 }}
