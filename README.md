@@ -26,6 +26,6 @@ List of resources:
    * `source ./venv/bin/activate`
 6. Go back to the project directory: `cd ..`
 7. Now install the `pip` dependencies: `pip install -r requirements.txt`
-   * Alternatively, if you are using `poetry`: `poetry sync` 
+   * Alternatively, if you are using `poetry` for python dependency management: `poetry sync` 
 8. Start jupyter lab and browse the notebooks in this directory: `jupyter lab`
    * Alternatively, you can use your own IDE editor instead.  
