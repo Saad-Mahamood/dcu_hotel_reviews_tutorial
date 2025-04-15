@@ -28,4 +28,14 @@ List of resources:
 7. Now install the `pip` dependencies: `pip install -r requirements.txt`
    * Alternatively, if you are using `poetry` for python dependency management: `poetry sync` 
 8. Start jupyter lab and browse the notebooks in this directory: `jupyter lab`
-   * Alternatively, you can use your own IDE editor instead.  
+   * Alternatively, you can use your own IDE editor instead. 
+
+### Ollama Configuration
+
+This project relies on [Ollama](https://ollama.com) to run local LLMs for review summarisation. To setup this:
+
+1. Install Ollama:
+   * Using an interactive installer: [https://ollama.com/download](https://ollama.com/download) 
+   * CLI installation: e.g. `brew`, `apt-get`, etc.: `brew install ollama` [macOS]
+2. Install Llama 3.1-8b model: `ollama pull llama3.1`
+3. Run the Ollama server: `ollama serve` or the graphical application.
